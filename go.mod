@@ -9,3 +9,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
+
+replace github.com/AlexBeauchemin/gobadge => github.com/mahendrapaipuri/gobadge v1.0.0
